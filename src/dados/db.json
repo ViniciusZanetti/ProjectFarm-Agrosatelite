@@ -1,0 +1,33 @@
+{
+  "farms": [
+    {
+      "name": "Fazenda Zanetti",
+      "area": "2000",
+      "centroid": "250, 300, 580",
+      "geometry": "Circular",
+      "owner": "Vinicius Zanetti",
+      "data": "2022-08-23T15:38:13.186Z",
+      "id": 1
+    }
+  ],
+  "Owner": [
+    {
+      "name": "Vincius Zanetti",
+      "document": "123.456.789-00",
+      "document_type": "CPF",
+      "id": 1
+    },
+    {
+      "name": "Vincius Zanetti",
+      "document": "123.456.789-22",
+      "document_type": "CPF",
+      "id": 2
+    },
+    {
+      "name": "Larissa Pereira",
+      "document": "123.456.789-01",
+      "document_type": "CPF",
+      "id": 3
+    }
+  ]
+}

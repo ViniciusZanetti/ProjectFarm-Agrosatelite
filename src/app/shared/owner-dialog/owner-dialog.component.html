@@ -1,0 +1,19 @@
+<h1 mat-dialog-title>Editar informações</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <mat-label>Nome do Pertencente</mat-label>
+    <input matInput [(ngModel)]="dataOwner.name">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Área</mat-label>
+    <input matInput [(ngModel)]="dataOwner.document">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Centróide</mat-label>
+    <input matInput [(ngModel)]="dataOwner.document_type">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancelar</button>
+  <button mat-button [mat-dialog-close]="dataOwner" cdkFocusInitial>Confirmar</button>
+</div>

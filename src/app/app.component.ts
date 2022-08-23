@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FarmsService } from './services/farms.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Project2Farm';
+
+  transferencias: any[] = [];
+
+  constructor(private service: FarmsService) {}
 }
