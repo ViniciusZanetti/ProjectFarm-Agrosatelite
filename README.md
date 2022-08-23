@@ -36,6 +36,6 @@ Segundo passo
 
 rodar os dois comandos simultaneos.
 
-Ps: Passo 6 sobre o mapa, algumas funções já não estão mais em funcionamento e devido a isso não foi efetuado o passo do mapa.
+Ps: Passo 6 sobre o mapa, algumas funções já não estão mais em funcionamento e devido a isso não foi efetuado o passo do mapa e peço perdão pelos estilos estarem mais básicos, o tempo era curto, então tentei equilibrar pra deixar tudo funcionando.
 
 Happy Testing :)
