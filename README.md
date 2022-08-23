@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Primeiro passo
+
+-Rodar npm install no terminal para que seja instalado todas as dependencies necessárias
+
+Segundo passo
+
+-Entrar no diretório dados e rodar o seguinte comando json-server --watch db.json
+
+rodar os dois comandos simultaneos.
+
+Ps: Passo 6 sobre o mapa, algumas funções já não estão mais em funcionamento e devido a isso não foi efetuado o passo do mapa.
+
+Happy Testing :)
